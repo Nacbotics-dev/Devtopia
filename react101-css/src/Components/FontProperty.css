@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Solitreo&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    /* font-family: 'Solitreo', cursive; */
+    font-family: 'Unbounded', cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 89px;
+    font-weight: 900;
+    /* font-style: italic; */
+
+    font-display: none;
+    font-stretch: expanded;
+}
